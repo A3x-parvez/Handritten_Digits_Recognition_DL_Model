@@ -43,6 +43,7 @@ Handwritten digit recognition is a classic machine learning problem where the go
 
 3. **Results**:
    - The model outputs its accuracy on the test dataset.
+   - The model can recognize any image from the test dataset and show the number written in the image as output.
 
 ## Installation ⚙ 
 
@@ -61,7 +62,7 @@ pip install tensorflow
 
 ## Results ✅
 
-The model achieves an accuracy of approximately **97.76%** on the test set. (Replace with actual result after evaluation.)
+The model achieves an accuracy of approximately **97.76%** on the test set.
 
 ## Acknowledgments ⭐
 
